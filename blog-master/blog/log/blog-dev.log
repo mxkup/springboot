@@ -1,0 +1,7 @@
+2023-05-31 10:59:51.561  INFO 4332 --- [main] com.blog.BlogApplicationTests            : Starting BlogApplicationTests on LAPTOP-KMP10P40 with PID 4332 (started by 联系 in E:\project\sx\blog-master\blog)
+2023-05-31 10:59:51.562 DEBUG 4332 --- [main] com.blog.BlogApplicationTests            : Running with Spring Boot v2.2.6.RELEASE, Spring v5.2.5.RELEASE
+2023-05-31 10:59:51.563  INFO 4332 --- [main] com.blog.BlogApplicationTests            : The following profiles are active: dev
+2023-05-31 10:59:55.152  INFO 4332 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2023-05-31 10:59:55.385  INFO 4332 --- [main] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page template: index
+2023-05-31 10:59:56.065  INFO 4332 --- [main] com.blog.BlogApplicationTests            : Started BlogApplicationTests in 5.099 seconds (JVM running for 6.796)
+2023-05-31 10:59:56.545  INFO 4332 --- [SpringContextShutdownHook] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
